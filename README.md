@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @arunbungalowil
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning python language
+- 👀 I’m interested in software testing
+- 🌱 I’m currently learning Java programming
