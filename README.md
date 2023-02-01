@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @arunbungalowil
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning Java programming
+- 👋 Hi, I’m @arunbungalowil.
+- 👀 I’m interested in software testing and 3D animation.
+- 🌱 I’m currently learning Java programming and 3D animation.
